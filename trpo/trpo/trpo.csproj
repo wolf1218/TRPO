@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A.cs" />
-    <Compile Include="B.cs" />
+    <Compile Include="core\EquationInterface.cs" />
+    <Compile Include="core\LogAbstract.cs" />
+    <Compile Include="core\LogInterface.cs" />
+    <Compile Include="Goncharov\EquationSolution.cs" />
+    <Compile Include="Goncharov\GoncharovExeption.cs" />
+    <Compile Include="Goncharov\GoncharovLog.cs" />
+    <Compile Include="Goncharov\QuadEqSolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,3 +1,8 @@
 F:\ТРПО\trpo\trpo\bin\Debug\trpo.exe.config
 F:\ТРПО\smth\orig 2\trpo\trpo\bin\Debug\trpo.exe.config
-C:\Users\WL\Desktop\ТРПО КОПИЯ\ориги\orig 2\trpo\trpo\bin\Debug\trpo.exe.config
+F:\ТРПО\smth\orig 3\trpo\trpo\bin\Debug\trpo.exe.config
+F:\ТРПО\smth\orig 3\trpo\trpo\bin\Debug\trpo.exe
+F:\ТРПО\smth\orig 3\trpo\trpo\bin\Debug\trpo.pdb
+F:\ТРПО\smth\orig 3\trpo\trpo\obj\Debug\trpo.csprojResolveAssemblyReference.cache
+F:\ТРПО\smth\orig 3\trpo\trpo\obj\Debug\trpo.exe
+F:\ТРПО\smth\orig 3\trpo\trpo\obj\Debug\trpo.pdb
