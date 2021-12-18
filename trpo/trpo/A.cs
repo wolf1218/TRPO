@@ -8,6 +8,19 @@ namespace trpo
 {
     class A
     {
+        protected double[] x;
 
+        public double[] Solve1(double a, double b)
+        {
+            if (a == 0)
+            {
+                throw new Exception("Корней уравнения не существует.");
+            }
+
+
+            return this.x = new double[] { ((-b) / a) };
+
+
+        }
     }
 }

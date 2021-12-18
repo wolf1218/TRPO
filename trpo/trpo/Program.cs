@@ -10,6 +10,12 @@ namespace trpo
     {
         static void Main(string[] args)
         {
+            A a = new A();
+            Console.WriteLine(a.Solve1(10, 5)[0].ToString());
+
+
+
+            Console.ReadKey();
         }
     }
 }

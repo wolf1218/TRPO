@@ -1,1 +1,3 @@
 F:\ТРПО\trpo\trpo\bin\Debug\trpo.exe.config
+F:\ТРПО\smth\orig 2\trpo\trpo\bin\Debug\trpo.exe.config
+C:\Users\WL\Desktop\ТРПО КОПИЯ\ориги\orig 2\trpo\trpo\bin\Debug\trpo.exe.config
